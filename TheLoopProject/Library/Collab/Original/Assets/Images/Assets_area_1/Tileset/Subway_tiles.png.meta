@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: d5e8047775511c54ca92f12d6488ce37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8042235406190975077
+    second: Subway_tiles_0
+  - first:
+      213: -244891604206602425
+    second: Subway_tiles_1
+  - first:
+      213: -5115168322635793135
+    second: Subway_tiles_2
+  - first:
+      213: -4897130527704786124
+    second: Subway_tiles_3
+  - first:
+      213: -7282735361405311209
+    second: Subway_tiles_4
+  - first:
+      213: 888723975318450716
+    second: Subway_tiles_5
+  - first:
+      213: -96464059033130506
+    second: Subway_tiles_6
+  - first:
+      213: 3004855260654632677
+    second: Subway_tiles_7
+  - first:
+      213: 8220364203376831496
+    second: Subway_tiles_8
+  - first:
+      213: -5571337263059066026
+    second: Subway_tiles_9
+  - first:
+      213: 3359367504923159326
+    second: Subway_tiles_10
+  - first:
+      213: 16895136402878056
+    second: Subway_tiles_11
+  - first:
+      213: -6064961386122157311
+    second: Subway_tiles_12
+  - first:
+      213: 1494066479405509312
+    second: Subway_tiles_13
+  - first:
+      213: 6494003931415043013
+    second: Subway_tiles_14
+  - first:
+      213: -8849257306054963694
+    second: Subway_tiles_15
+  - first:
+      213: 5004354059354007166
+    second: Subway_tiles_16
+  - first:
+      213: 3011537628899222747
+    second: Subway_tiles_17
+  - first:
+      213: -1781091414543935725
+    second: Subway_tiles_18
+  - first:
+      213: -2844535099056174578
+    second: Subway_tiles_19
+  - first:
+      213: 1405531710607880342
+    second: Subway_tiles_20
+  - first:
+      213: -3466848928489636575
+    second: Subway_tiles_21
+  - first:
+      213: -6343235332827891318
+    second: Subway_tiles_22
+  - first:
+      213: 4064891254918587553
+    second: Subway_tiles_23
+  - first:
+      213: 1009123056721687315
+    second: Subway_tiles_24
+  - first:
+      213: -6126822501587442105
+    second: Subway_tiles_25
+  - first:
+      213: 3830823243504543063
+    second: Subway_tiles_26
+  - first:
+      213: -5333627414102003987
+    second: Subway_tiles_27
+  - first:
+      213: -6720173916728281867
+    second: Subway_tiles_28
+  - first:
+      213: 4292619482950207503
+    second: Subway_tiles_29
+  - first:
+      213: -5823769432878642592
+    second: Subway_tiles_30
+  - first:
+      213: -5205823297934957401
+    second: Subway_tiles_31
+  - first:
+      213: 2848101234132995778
+    second: Subway_tiles_32
+  - first:
+      213: 8405319503880758117
+    second: Subway_tiles_33
+  - first:
+      213: -8028315215267984227
+    second: Subway_tiles_34
+  - first:
+      213: -3911241318755549457
+    second: Subway_tiles_0
+  - first:
+      213: 1701519177649410639
+    second: Subway_tiles_1
+  - first:
+      213: -972964947274748292
+    second: Subway_tiles_2
+  - first:
+      213: 5523603838318426199
+    second: Subway_tiles_3
+  - first:
+      213: 5264117034213684819
+    second: Subway_tiles_4
+  - first:
+      213: 2811370601503754673
+    second: Subway_tiles_5
+  - first:
+      213: 4132904434368321661
+    second: Subway_tiles_6
+  - first:
+      213: -900219455056544420
+    second: Subway_tiles_7
+  - first:
+      213: -7371011904274399196
+    second: Subway_tiles_8
+  - first:
+      213: 4094485743074659076
+    second: Subway_tiles_9
+  - first:
+      213: 1694198994342654245
+    second: Subway_tiles_10
+  - first:
+      213: 6331712492756606967
+    second: Subway_tiles_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Subway_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 299
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42de425da20d9710800000000000000
+      internalID: 1701519177649410639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b3685d86ed0940800000000000000
+      internalID: 5264117034213684819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b98b92baaef30720800000000000000
+      internalID: 2811370601503754673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78192d9fa60b5930800000000000000
+      internalID: 4132904434368321661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7579dc27c183f0800000000000000
+      internalID: -900219455056544420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 259
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bcdddf61982d830800000000000000
+      internalID: 4094485743074659076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5213e945201038710800000000000000
+      internalID: 1694198994342654245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568151a0e72cb9f60800000000000000
+      internalID: 8042235406190975077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d76fa03854309b0800000000000000
+      internalID: -5115168322635793135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5f6d2bb5e90cb0800000000000000
+      internalID: -4897130527704786124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Subway_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cec9a80b9941270800000000000000
+      internalID: 8220364203376831496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
